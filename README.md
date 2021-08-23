@@ -150,7 +150,7 @@ preparation of the dataframe for tagging:
 - go to the 'product' directory <br/>
 ```$ cd product``` ,
 - create and activate environment *py37_env1* (*'envs/py37_env1'*) using packages listed in the file: *requirements__py37_env1.txt*,
-- create and activate env *py37_env2* (*'envs/py37_env2'*) using packages listed in the file: *requirements__py37_env2.txt*,
+- create and activate environment *py37_env2* (*'envs/py37_env2'*) using packages listed in the file: *requirements__py37_env2.txt*,
 - prepare directory with CV's collection in pdf format ready for model training (e.g. */tmp/my_CV_collection/*),
 - start the creation of the training dataframe:
 ```

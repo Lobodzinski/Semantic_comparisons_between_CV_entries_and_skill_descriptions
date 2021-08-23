@@ -1,0 +1,21 @@
+[Input]
+input_directory: __root_dir__/input
+skill_directory: __root_dir__/skills
+skill_filename: skills.csv
+
+[Output]
+output_directory_classification: __root_dir__/output_classification
+output_directory: __root_dir__/output
+
+[Parameters]
+model_directory: __root_dir__/models
+model_name: best_model_state.bin
+model_transformer: __root_dir__/models/msmarco-distilbert-multilingual-en-de-v2-tmp-lng-aligned
+batch_size: 10
+max_len: 120
+pretrained_model: __root_dir__/models/bert-base-multilingual-cased-finetuned-conll03-dutch
+nr_of_classes: 6
+threshold: 0.2
+
+[Debug]
+debug: True

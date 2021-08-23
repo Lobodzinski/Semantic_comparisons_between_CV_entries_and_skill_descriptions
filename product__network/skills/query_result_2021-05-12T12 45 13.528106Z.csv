@@ -1,0 +1,654 @@
+ID,Category,Name,Sub Category
+1,Experience,Arbeitssicherheit,Berufserfahrung
+2,Experience,Arbeitsvorbereitung,Berufserfahrung
+3,Experience,Arzthelferin,Berufserfahrung
+4,Experience,Assistenz,Berufserfahrung
+5,Experience,Automobilbereich / Fahrzeugbau,Berufserfahrung
+6,Experience,Bauleitung,Berufserfahrung
+7,Experience,Bauwesen,Berufserfahrung
+8,Experience,Berechnung von Statik,Berufserfahrung
+9,Experience,Berufserfahrung,Berufserfahrung
+10,Experience,Change Management,Berufserfahrung
+11,Experience,Configuration Management,Berufserfahrung
+12,Experience,Controlling,Berufserfahrung
+13,Experience,Design Engineer,Berufserfahrung
+14,Experience,Disposition / Materialbeschaffung,Berufserfahrung
+15,Experience,Einkauf,Berufserfahrung
+16,Experience,Elektrik,Berufserfahrung
+17,Experience,Elektrotechnik/Elektronik,Berufserfahrung
+18,Experience,Engineering,Berufserfahrung
+19,Experience,Entwicklung,Berufserfahrung
+20,Experience,Erwachsenenbildung,Berufserfahrung
+21,Experience,Fatigue und Schadenstoleranz,Berufserfahrung
+22,Experience,Feinmechanik,Berufserfahrung
+23,Experience,Fertigung / Produktion,Berufserfahrung
+24,Experience,Fertigungsplanung/-steuerung,Berufserfahrung
+25,Experience,Finanzwesen,Berufserfahrung
+26,Experience,Flugzeugbau,Berufserfahrung
+27,Experience,Forschung und Entwicklung,Berufserfahrung
+28,Experience,Führungserfahrung,Berufserfahrung
+29,Experience,Galvaniseur/in / Oberflächenbeschichter/in,Berufserfahrung
+30,Experience,Gesundheitswesen,Berufserfahrung
+31,Experience,"Heizungs-, Lüftungs- und Klimatechnik",Berufserfahrung
+32,Experience,HR-Business Partner,Berufserfahrung
+33,Experience,Hubschraubermechaniker,Berufserfahrung
+34,Experience,Industriedesign,Berufserfahrung
+35,Experience,Industriemechanik,Berufserfahrung
+36,Experience,Innenarchitektur / Interior Design,Berufserfahrung
+37,Experience,Instandhaltung,Berufserfahrung
+38,Experience,Interface Management,Berufserfahrung
+39,Experience,Interviewführung,Berufserfahrung
+40,Experience,IT / Informationssysteme,Berufserfahrung
+41,Experience,Jigs & Tools,Berufserfahrung
+42,Experience,Kaufmännischer Sachbearbeiter,Berufserfahrung
+43,Experience,Konstruktion,Berufserfahrung
+44,Experience,Krankenhaus,Berufserfahrung
+45,Experience,Kreditorenbuchhaltung,Berufserfahrung
+46,Experience,Küchenbauer,Berufserfahrung
+47,Experience,Kundenservice/ Customer Service,Berufserfahrung
+48,Experience,Kunststoff- und Kautschuktechnik,Berufserfahrung
+49,Experience,Laborarbeiten/ Labortechnik,Berufserfahrung
+50,Experience,Lackierer,Berufserfahrung
+51,Experience,Lagerlogistik,Berufserfahrung
+52,Experience,Lieferantenmanagement,Berufserfahrung
+53,Experience,Line Side Support,Berufserfahrung
+54,Experience,Logistics,Berufserfahrung
+55,Experience,Lohn- und Gehaltsabrechnung,Berufserfahrung
+56,Experience,Luft- und Raumfahrt,Berufserfahrung
+57,Experience,Maler,Berufserfahrung
+58,Experience,Manufacturing Engineering,Berufserfahrung
+59,Experience,Marketing,Berufserfahrung
+60,Experience,Mechanik,Berufserfahrung
+61,Experience,Mechanik in der Luftfahrt,Berufserfahrung
+62,Experience,Mechatronik,Berufserfahrung
+63,Experience,Messtechnik,Berufserfahrung
+64,Experience,Operative und strategische Beschaffung,Berufserfahrung
+65,Experience,Personalsachbearbeitung,Berufserfahrung
+66,Experience,Personalwesen,Berufserfahrung
+67,Experience,Produktentwicklung,Berufserfahrung
+68,Experience,Produktionsplanung und -steuerung,Berufserfahrung
+69,Experience,Projektleitung,Berufserfahrung
+70,Experience,Projektmanagement,Berufserfahrung
+71,Experience,Prozessplanung,Berufserfahrung
+72,Experience,Prozessverbesserung,Berufserfahrung
+73,Experience,Public Relations/ Kommunikationsmanagement,Berufserfahrung
+74,Experience,Qualitätsmanagement,Berufserfahrung
+75,Experience,Qualitätssicherung,Berufserfahrung
+76,Experience,Raumfahrt,Berufserfahrung
+77,Experience,Rechtswesen,Berufserfahrung
+78,Experience,Sachbearbeitung Lieferantenmanagement,Berufserfahrung
+79,Experience,Schlosser,Berufserfahrung
+80,Experience,Sekretariat/Assistenz,Berufserfahrung
+81,Experience,Stress-Ingenieur,Berufserfahrung
+82,Experience,Strukturmechanik (Metall) bei Airbus Operations,Berufserfahrung
+83,Experience,Strukturmontage,Berufserfahrung
+84,Experience,Supply Chain,Berufserfahrung
+85,Experience,Supply Chain / Logistics,Berufserfahrung
+86,Experience,technische Dokumentation,Berufserfahrung
+87,Experience,Technischer Sachbearbeiter,Berufserfahrung
+88,Experience,Vertragsmanagement,Berufserfahrung
+89,Experience,Vertrieb,Berufserfahrung
+90,Experience,Wartung /Instandhaltung,Berufserfahrung
+91,Experience,Werkstoffprüfung,Berufserfahrung
+92,Education,"Anlagenmechaniker – Sanitär, Heizungs- und Klimatechnik",gewerbliche Ausbildung
+93,Education,Bootsbauer,gewerbliche Ausbildung
+94,Education,Dreher/in / Fräser/in,gewerbliche Ausbildung
+95,Education,Elektriker/in,gewerbliche Ausbildung
+96,Education,Elektroniker/in für luftfahrttechnische Systeme (Fluggerätelektroniker/in),gewerbliche Ausbildung
+97,Education,Fahrzeuglackierer/in,gewerbliche Ausbildung
+98,Education,Feinmechaniker/in,gewerbliche Ausbildung
+99,Education,Fluggerätmechaniker/in,gewerbliche Ausbildung
+100,Education,Fluggerätmechaniker/in FR Fertigungstechnik,gewerbliche Ausbildung
+101,Education,Fluggerätmechaniker/in FR Instandhaltungstechnik,gewerbliche Ausbildung
+102,Education,Fluggerätmechaniker/in FR Triebwerktechnik,gewerbliche Ausbildung
+103,Education,Flugzeugbauer/in,gewerbliche Ausbildung
+104,Education,Galvaniseur/in Oberflächenbeschichter/in,gewerbliche Ausbildung
+105,Education,gewerbliche Ausbildung,gewerbliche Ausbildung
+106,Education,handwerklicher Beruf,gewerbliche Ausbildung
+107,Education,holzverarbeitender Beruf,gewerbliche Ausbildung
+108,Education,Industriemechaniker/in,gewerbliche Ausbildung
+109,Education,KFZ-Mechaniker/in,gewerbliche Ausbildung
+110,Education,KFZ-Mechatroniker/in,gewerbliche Ausbildung
+111,Education,Logistikfachkraft,gewerbliche Ausbildung
+112,Education,Maler/Lackierer/in,gewerbliche Ausbildung
+113,Education,Maschinenschlosser/in,gewerbliche Ausbildung
+114,Education,Mechaniker/in,gewerbliche Ausbildung
+115,Education,Mechatroniker/in,gewerbliche Ausbildung
+116,Education,Metallbauer/in /Karosseriebauer/in,gewerbliche Ausbildung
+117,Education,metallverarbeitender Beruf,gewerbliche Ausbildung
+118,Education,Sanitär- und Heizungstechnik,gewerbliche Ausbildung
+119,Education,Sattler/in,gewerbliche Ausbildung
+120,Education,"Schlosser/in (Bau-, Maschinenschlosser)",gewerbliche Ausbildung
+121,Education,Siebdruck/in,gewerbliche Ausbildung
+122,Education,Spengler/in,gewerbliche Ausbildung
+123,Education,Tischler/in,gewerbliche Ausbildung
+124,Education,Verfahrensmechaniker/in für Beschichtungstechnik,gewerbliche Ausbildung
+125,Education,Verfahrensmechaniker/in für Kunststoff u. Kautschuk,gewerbliche Ausbildung
+126,Education,Werkstoffprüfer/in,gewerbliche Ausbildung
+127,Education,Werkzeugmacher/in,gewerbliche Ausbildung
+128,Education,Zerspanungsmechaniker/in,gewerbliche Ausbildung
+129,Education,Zimmermann,gewerbliche Ausbildung
+130,Education,Buchhalter/in,kaufmännische Ausbildung
+131,Education,Finanzbuchalter/in,kaufmännische Ausbildung
+132,Education,Groß- und Außenhandelskaufmann/frau,kaufmännische Ausbildung
+133,Education,Industriekaufmann/frau,kaufmännische Ausbildung
+134,Education,Kaufmann/-frau für Bürokommunikation,kaufmännische Ausbildung
+135,Education,Kaufmann/frau für Informationstechnologie,kaufmännische Ausbildung
+136,Education,Kaufmann/frau im Gesundheitswesen,kaufmännische Ausbildung
+137,Education,kaufmännische Ausbildung,kaufmännische Ausbildung
+138,Education,Personalkauffrau/mann,kaufmännische Ausbildung
+139,Education,Speditionskaufmann/frau,kaufmännische Ausbildung
+140,Education,Chemie,Naturwissenschaften
+141,Education,Mathematik,Naturwissenschaften
+142,Education,Physik,Naturwissenschaften
+143,Education,Arzthelfer/-in,sonstige Ausbildung
+144,Education,Fachinformatiker/-in,sonstige Ausbildung
+145,Education,Feuerwehrmann/-frau,sonstige Ausbildung
+146,Education,Informatikkaufmann/-frau,sonstige Ausbildung
+147,Education,IT-Systemelektroniker/-in,sonstige Ausbildung
+148,Education,IT-Systemkaufmann/-frau,sonstige Ausbildung
+149,Education,Koch/Köchin,sonstige Ausbildung
+150,Education,Krankenschwester/-pfleger,sonstige Ausbildung
+151,Education,Patentanwaltsfachangestellte/r,sonstige Ausbildung
+152,Education,Rechtsanwaltsfachangestellte/r,sonstige Ausbildung
+153,Education,Vergleichbare Qualifikation,sonstige Ausbildung
+154,Education,Alle Hochschulkategorien,sonstige Studiengänge
+155,Education,Designer/-in,sonstige Studiengänge
+156,Education,Gesundheitswissenschaften,sonstige Studiengänge
+157,Education,Innenarchitektur/ Interior Design,sonstige Studiengänge
+158,Education,Projektmanagement,sonstige Studiengänge
+159,Education,Rechtswissenschaften,sonstige Studiengänge
+160,Education,Textildesign,sonstige Studiengänge
+161,Education,Kommunikationswissenschaften,Sozialwissenschaften
+162,Education,Politikwissenschaften,Sozialwissenschaften
+163,Education,Psychologie,Sozialwissenschaften
+164,Education,Sozialwissenschaften,Sozialwissenschaften
+165,Education,Soziologie,Sozialwissenschaften
+166,Education,Elektrotechnik/Elektronik,technische Ausbildung
+167,Education,technische Ausbildung,technische Ausbildung
+168,Education,technische Ausbildung im Bereich Kalibrierung,technische Ausbildung
+169,Education,Architektur,Technische Studiengänge
+170,Education,Bauingenieurwesen,Technische Studiengänge
+171,Education,Elektrotechnik,Technische Studiengänge
+172,Education,Fahrzeugbau,Technische Studiengänge
+173,Education,Flugzeugbau,Technische Studiengänge
+174,Education,Geomatik,Technische Studiengänge
+175,Education,Grafikdesign,Technische Studiengänge
+176,Education,"Heizungs-, Lüftungs- und Klimatechnik",Technische Studiengänge
+177,Education,Informatik,Technische Studiengänge
+178,Education,Ingenieurwesen,Technische Studiengänge
+179,Education,Luft- und Raumfahrt,Technische Studiengänge
+180,Education,Maschinenbau,Technische Studiengänge
+181,Education,Mechatronik,Technische Studiengänge
+182,Education,Messtechnik,Technische Studiengänge
+183,Education,Projektmanagement Bau,Technische Studiengänge
+184,Education,Technisches Studium,Technische Studiengänge
+185,Education,Umwelttechnik,Technische Studiengänge
+186,Education,Verbundwerkstoffe / Composites,Technische Studiengänge
+187,Education,Versorgungstechnik,Technische Studiengänge
+188,Education,Wirtschaftsinformatik,Technische Studiengänge
+189,Education,Wirtschaftsingenieur,Technische Studiengänge
+190,Education,Betriebswirtschaft,Wirtschaftswissenschaften
+191,Education,Internationales Management,Wirtschaftswissenschaften
+192,Education,Supply Chain / Logistics,Wirtschaftswissenschaften
+193,Education,Supply Chain Quality,Wirtschaftswissenschaften
+194,Education,Wirtschaftswissenschaften,Wirtschaftswissenschaften
+195,Language,Chinesisch,
+196,Language,Deutsch,
+197,Language,Englisch,
+198,Language,Französisch,
+199,Language,Spanisch,
+200,Special_Knowledge,Change Management,
+201,Special_Knowledge,KAIZEN,
+202,Special_Knowledge,KVP,
+203,Special_Knowledge,Lean Management,
+204,Special_Knowledge,Lohn- und Gehaltsabrechnung,
+205,Special_Knowledge,Projektmanagement,
+206,Special_Knowledge,Prozessmanagement,
+207,Special_Knowledge,Risk Management,
+208,Special_Knowledge,Schweißen,
+209,Special_Knowledge,Total Quality Management (Problemlösungsmethoden),
+210,Special_Knowledge,Werkzeugausgabe,
+211,Special_Knowledge,Unix,
+212,Special_Knowledge,Windows,
+213,Special_Knowledge,Java,
+214,Special_Knowledge,Oracle,
+215,Special_Knowledge,Python,
+216,Special_Knowledge,SQL,
+217,Special_Knowledge,Kenntnisse auf dem Gebiet der zivilen Luftfahrt (CA)-Dokumentation,
+218,Special_Knowledge,"Kenntnisse der militärischen Wartungsverfahren, Abläufe und Dokumentation",
+219,Special_Knowledge,MS-Access,
+220,Special_Knowledge,MS-Excel,
+221,Special_Knowledge,MS-Office,
+222,Special_Knowledge,MS-Outlook,
+223,Special_Knowledge,MS-Power Point,
+224,Special_Knowledge,MS-Project,
+225,Special_Knowledge,MS-Visio,
+226,Special_Knowledge,MS-Word,
+227,Special_Knowledge,SAP,
+228,Special_Knowledge,SAP/ABAP,
+229,Special_Knowledge,SAP/LE-WM,
+230,Special_Knowledge,SAP/MM-IM,
+231,Special_Knowledge,SAP/MM-PP,
+232,Special_Knowledge,SAP/MM-SD,
+233,Special_Knowledge,SAP/R3,
+234,Special_Knowledge,SAP/R3 HR,
+235,Special_Knowledge,SAP/SRM,
+236,Special_Knowledge,SAP-FI (Finance),
+237,Special_Knowledge,Baan,
+238,Special_Knowledge,Click´n Buy (BySide),
+239,Special_Knowledge,CorelDraw,
+240,Special_Knowledge,ICC,
+241,Special_Knowledge,Illustrator,
+242,Special_Knowledge,Magic,
+243,Special_Knowledge,MORE (Airbusspezifisches Tool),
+244,Special_Knowledge,Photoshop,
+245,Special_Knowledge,TiCon,
+246,Special_Knowledge,Ugo,
+247,Special_Knowledge,AutoCAD,
+248,Special_Knowledge,Catia V4,
+249,Special_Knowledge,Catia V5,
+250,Special_Knowledge,CCD,
+251,Special_Knowledge,doors,
+252,Special_Knowledge,Mastercam,
+253,Special_Knowledge,Matlab,
+254,Special_Knowledge,Nastran,
+255,Special_Knowledge,Patran,
+256,Special_Knowledge,PDMLink (Produktdatenmanagement-System/ Validierungstool),
+257,Special_Knowledge,PDMlink A350,
+258,Special_Knowledge,primes,
+259,Special_Knowledge,Taksy/Gesy/Tesy,
+260,Special_Knowledge,vpm,
+261,Special_Knowledge,VPM A350,
+262,Special_Knowledge,zamiz,
+263,Special_Knowledge,Durchführung von 3D-Messverfahren,
+264,Special_Knowledge,Umgang mit 3D-Koordinatenmessmaschinen und Längenprüfmitteln,
+265,Additional_Qualification,Gabelstaplerschein,
+266,Additional_Qualification,Kranschein,
+267,Additional_Qualification,Führerschein Klasse B/ 3,
+268,Additional_Qualification,Führerschein Klasse CE/ 2,
+269,Additional_Qualification,Green Belt,
+270,Additional_Qualification,Lean Management,
+271,Additional_Qualification,Six Sigma,
+272,Additional_Qualification,Ausbildung zum Auditor,
+273,Additional_Qualification,B1-Lizenz,
+274,Additional_Qualification,B2-Lizenz,
+275,Additional_Qualification,D-Lizenz,
+276,Additional_Qualification,Eigenprüfer/in,
+277,Additional_Qualification,Eigenprüfer/in oder Fremdprüfer/in,
+278,Additional_Qualification,Fremdprüfer/in,
+279,Additional_Qualification,NDT Prüfer/in,
+280,Additional_Qualification,Maschinenbediener/in,
+281,Additional_Qualification,Industriemeister/in,
+282,Additional_Qualification,Meister/in,
+283,Additional_Qualification,MTM,
+284,Additional_Qualification,Sicherheits- und Gesundheitskoordinator von Bau- und Sanierungsmaßnahmen (SiGeKo),
+285,Additional_Qualification,Luftfahrzeugtechniker,
+286,Additional_Qualification,Techniker oder Meister,
+287,Additional_Qualification,Techniker/in,
+288,Additional_Qualification,Airbus-spezifische Schulung Strukturmechanik,
+289,Additional_Qualification,Atemschutzgeräteträger,
+290,Additional_Qualification,Ausbildereignungsschein,
+291,Additional_Qualification,Erste-Hilfe-Ausbildung,
+292,Additional_Qualification,Fachkraft für Arbeitssicherheit,
+293,Additional_Qualification,REFA-Kenntnisse,
+294,Additional_Qualification,Truppführer/Truppmann,
+295,Additional_Qualification,Strukturmontage,
+296,Occupational_Healthcare,DIN EN 14732,
+297,Occupational_Healthcare,DIN EN ISO 11745,
+298,Occupational_Healthcare,DIN EN ISO 9606,
+299,Occupational_Healthcare,DIN ISO 24394,
+300,Occupational_Healthcare,G1.1-Quarzhaltiger Staub (Silikogener Staub),
+301,Occupational_Healthcare,G1.2- Asbestfaserhaltiger Staub,
+302,Occupational_Healthcare,G1.3-Keramikfaserhaltiger Staub,
+303,Occupational_Healthcare,G1.4-Staubbelastung,
+304,Occupational_Healthcare,G10-Methanol,
+305,Occupational_Healthcare,G11-Schwefelwasserstoff,
+306,Occupational_Healthcare,G12-Weisser Phosphor,
+307,Occupational_Healthcare,G13-Tetrachlorkohlenstoff (Tetrachlormethan),
+308,Occupational_Healthcare,G14-Trichlorethylen (Trichlorethen),
+309,Occupational_Healthcare,G15-Gefährdung durch Chrom-VI-Verbindungen,
+310,Occupational_Healthcare,G16-Arsen oder seine Verbindungen,
+311,Occupational_Healthcare,G17-Tetrachlorethylen (Perchlorethylen),
+312,Occupational_Healthcare,G18-Tetrachlorethan oder Pentachlorethan,
+313,Occupational_Healthcare,G20/1-Lärm 1,
+314,Occupational_Healthcare,G20-Gefährdung durch Lärm,
+315,Occupational_Healthcare,G21-Kältearbeiten,
+316,Occupational_Healthcare,G23a-Mehlstaub,
+317,Occupational_Healthcare,G23b-Platinverbindungen (Chlorplatinate),
+318,Occupational_Healthcare,G23c-Staub von Zuckmücken und deren Larven,
+319,Occupational_Healthcare,G23d-Naturgummilatex und sein Staub,
+320,Occupational_Healthcare,G23e-Enzymhaltige Stäube,
+321,Occupational_Healthcare,G23f-Dicarbonsäreanhydride (DCA),
+322,Occupational_Healthcare,"G23g-Labortierstaub, Haut- und Haarbestandteile",
+323,Occupational_Healthcare,G23h-Getreide- und Futtermittelstäube,
+324,Occupational_Healthcare,G23i-Atemwegsreizende (chemische) Arbeitsstoffe,
+325,Occupational_Healthcare,G23-Obstruktive Atemwegserkrankungen,
+326,Occupational_Healthcare,G24-Gefährdung der Haut,
+327,Occupational_Healthcare,"G25-Gefährdung durch Fahr-, Steuer- und Überwachungstätigkeiten",
+328,Occupational_Healthcare,"G25I-Gefährdung durch Fahr-, Steuer- und Überwachungstätigkeiten",
+329,Occupational_Healthcare,"G25II-Gefährdung durch Fahr-, Steuer- und Überwachungstätigkeiten",
+330,Occupational_Healthcare,"G25K-Gefährdung durch Fahr-, Steuer- und Überwachungstätigkeiten mit Kranschein",
+331,Occupational_Healthcare,G26III-Träger von Atemschutzgeräten über 5kg für Arbeit und Rettung,
+332,Occupational_Healthcare,G26II-Träger von Atemschutzgeräten unter 5kg für Arbeit und Rettung,
+333,Occupational_Healthcare,G26I-Träger von Atemschutzgeräten unter 3kg für Arbeit und Rettung,
+334,Occupational_Healthcare,G27-Gefährdung durch Isocyanate,
+335,Occupational_Healthcare,G28-Methylchlorid (Monochlormethan),
+336,Occupational_Healthcare,G29-Gefährdung durch Benzolhomologe (Toluol/Xylol),
+337,Occupational_Healthcare,G2-Blei und seine Verbindungen (mit Ausnahme der Bleialkyle),
+338,Occupational_Healthcare,G30-Hitzearbeiten,
+339,Occupational_Healthcare,G31-Überdruck (Kabinendichtigkeitstest),
+340,Occupational_Healthcare,G32-Gefährdung durch Cadmium und seine Verbindungen,
+341,Occupational_Healthcare,G33-Aromatische Nitro- oder Aminoverbindungen,
+342,Occupational_Healthcare,G34-Gefährdung durch Fluor oder seine anorganischen Verbindungen,
+343,Occupational_Healthcare,G35-Gefährdung durch Arbeitsaufenthalte im Ausland (bes. Klima- und gesundheitliche Belastungen),
+344,Occupational_Healthcare,G36-Vinylchlorid,
+345,Occupational_Healthcare,G37-Bildschirmarbeitsplätze,
+346,Occupational_Healthcare,G38-Gefährdung durch Nickel und seine Verbindungen,
+347,Occupational_Healthcare,G39-Gefährdung durch Schweißrauche,
+348,Occupational_Healthcare,G40a-Acrylnitril,
+349,Occupational_Healthcare,G40b-Benzo(a)pyren,
+350,Occupational_Healthcare,G40c-Beryllium,
+351,Occupational_Healthcare,"G40d-1,3-Butadien",
+352,Occupational_Healthcare,"G40e-1-Chlor-2,3-Epoxypropan (Epichlorhydrin)",
+353,Occupational_Healthcare,G40f-Cobalt und seine Verbindungen,
+354,Occupational_Healthcare,G40g-Dimethylsulfat,
+355,Occupational_Healthcare,G40h-Hydrazin,
+356,Occupational_Healthcare,G40-Krebserzeugende Gefahrstoffe- allgemein,
+357,Occupational_Healthcare,G41-Arbeiten mit Absturzgefahr,
+358,Occupational_Healthcare,G42-Gefährdung durch Infektionserkrankungen,
+359,Occupational_Healthcare,G43-Biotechnologie,
+360,Occupational_Healthcare,G44-Gefährdung durch Eichen- und Buchenholzstaub,
+361,Occupational_Healthcare,G45-Styrol,
+362,Occupational_Healthcare,G46-Belastung des Muskel- und Skelettsystems einschließlich Vibrationen,
+363,Occupational_Healthcare,"G4-Gefahrstoffe, die Hautkrebs oder zur Krebsbildung neigende Hautveränderungen hervorrufen",
+364,Occupational_Healthcare,G5-Ethylenglykoldinitrat oder Glycerindinitrat,
+365,Occupational_Healthcare,G6-Schwefelkohlenstoff (Kohlendisulfid),
+366,Occupational_Healthcare,G7-Kohlenmonoxid,
+367,Occupational_Healthcare,G8-Benzol,
+368,Occupational_Healthcare,G9-Quecksilber oder seine Verbindungen,
+369,Occupational_Healthcare,Hörtest gemäß EI 070 10-118,
+370,Occupational_Healthcare,Nachweis über Impfung Hepatitis A+B,
+371,Occupational_Healthcare,Radioaktive Stoffe/Strahlung,
+372,Occupational_Healthcare,Sehtest DIN 58220 T5,
+373,Occupational_Healthcare,Sehtest DIN EN 4179 (jährliche Untersuchung),
+374,Special_Knowledge,Berechtugungskonzepten im Umfeld Active Directory,
+375,Special_Knowledge,Exchange,
+376,Special_Knowledge,SharePoint,
+377,Special_Knowledge,Zertifikate und Remote-Zugriffsverfahren,
+378,Special_Knowledge,"Erfahrung mit technischen Schnittstellen, Windows Servern und Clients sowie Datenbanken",
+379,Special_Knowledge,Erfahrung mit gesetzlichen Randbedingungen im Umfeld der Infomationstechnologie,
+380,Special_Knowledge,Erfahrung im Betrieb und der Weiterentwicklung komplexer und verteilter Systeme und deren Schnittstellen,
+381,Education,"Abgeschlossenes Studium der (Wirtschafts-) Informatik, der Betriebswirtschaftslehre oder eine vergleichbare Qualifikation mit hoher IT-Affinität",Studium
+382,Special_Knowledge,"Experte im Umgang mit Atlassian Anwendungen (JIRA, Confluence sowie idealerweise JIRA Service Desk und BitBucket)",
+383,Experience,Alias Modeler,Alias Modeler
+384,Special_Knowledge,Excellent understanding of technical correlations,
+385,Special_Knowledge,Understanding of technical correlations,
+386,Special_Knowledge,Knowledge of material properties and manufacturing processes,
+387,Additional_Qualification,"Unreal, Grasshopper and VR abilities",
+388,Special_Knowledge,Triebwerkelektronik,
+389,Special_Knowledge,mehrjährige Berufserfahrung in der Entgeltabrechnung,
+390,Special_Knowledge,Erfahrung in der Mitarbeit bei Systemanpassungen in SAP R/3 HR,
+391,Special_Knowledge,"ausgezeichnete Kenntnisse in SAP R/3 HR, insbesondere Entgeltabrechnung und Zeitwirtschaft",
+392,Special_Knowledge,ausgezeichnete Kenntnisse in SAP R/3 HR,
+393,Special_Knowledge,Entgeltabrechnung und Zeitwirtschaft,
+394,Special_Knowledge,mehrjährige Berufserfahrung in der Entgeltabrechnung und Zeitwirtschaft,
+395,Special_Knowledge,Mitarbeit bei Systemanpassungen in SAP R/3 HR,
+396,Special_Knowledge,Unterstützung bei Systemanpassungen in SAP R/3 HR,
+397,Special_Knowledge,Umgang /Fahren mit/von Flurförderzeugen,
+398,Special_Knowledge,Feinmechanik,
+399,Special_Knowledge,Bauteilprüfung,
+400,Experience,Zollwesen,EU und Nicht EU Importe
+401,Special_Knowledge,Versandgeschäft EU und Nicht EU Ausland,
+402,Special_Knowledge,zollkonforme Versandabwicklung,
+403,Experience,Wareneingangsprüfung,Teileprüfung
+404,Special_Knowledge,Wareneingasprüfung,
+405,Experience,IFRS-Kenntnisse,Accounting
+406,Experience,Accountant,Accounting
+407,Education,Aerospace Engineering,Studiengang
+408,Education,Mechanical Engineering,Studiengang
+409,Experience,"Structural analysis, with application to aircraft structures, in particular to Fuselage Primary & Secondary Structure",Berufserfahrung
+410,Special_Knowledge,HyperMesh,
+411,Special_Knowledge,"HyperMesh, HyperView, OptiStruct",
+412,Special_Knowledge,stress & damage tolerance analysis methods following established standards for CFRP structures,
+413,Education,Mechanical Engineering ,Studiengang
+414,Experience,"Stress analysis, with application to aircraft control-surface structures and / or aircraft engines",Berufserfahrung
+415,Special_Knowledge,conceptual design phase ,
+416,Special_Knowledge,stress & fatigue analysis methods following established standards for both CFRP and metallic structures,
+417,Special_Knowledge,"•	Detaillierte Kenntnisse bei der Administration von MDM-Systemen (bevorzugt MobileIron, SOTI)",
+418,Special_Knowledge,•	Gute Kenntnisse der gängigen Microsoft Server- und Client-Betriebssysteme und der  Microsoft Office-Anwendungen,
+419,Experience,Help Desk Technician/ First level support ,Berufserfahrung
+420,Special_Knowledge,MacOS,
+421,Special_Knowledge,Linux,
+422,Additional_Qualification,ASCA,
+423,Additional_Qualification,ACSA,
+424,Language,Deutsch wünschenswert,
+425,Special_Knowledge,Active Directory,
+426,Education,abgeschlossenes Studium der Betriebswirtschaftslehre,•	abgeschlossenes Studium der Betriebswirtschaftslehre oder vergleichbare Qualifikation	
+427,Special_Knowledge,"•	einschlägige Erfahrung im Einkauf, idealerweise im Bereich von Fracht-, Lager- und Logistikleistungen",
+428,Additional_Qualification,sehr gute MS-Office Kenntnisse,
+429,Additional_Qualification,Erfahrung mit SAP R/3,
+430,Education,industrial electrician ,Ausbildung
+431,Experience,Maintenance,Experience
+432,Special_Knowledge,electrical standards,
+433,Special_Knowledge,multi-kW variable frequency drives or electrical systems up to 1 kV DC,
+434,Education,aerospace engineering ,Studium
+435,Experience,NVH testing ,Experience
+436,Special_Knowledge,"NVH sensors, data acquisition and control systems ",
+437,Special_Knowledge,RTCA DO-160 ,
+438,Special_Knowledge,"test & test rig development, test execution & data processing",
+439,Experience,aerodynamic testing ,Experience
+440,Special_Knowledge,"aerodynamic probe design, data acquisition and control systems",
+441,Special_Knowledge," test & test rig development, test execution & data processing",
+442,Education,mechanical / aerospace engineering ,Studium
+443,Experience,"mechanical tests such as bird strike, fan-blade-off and containment",Experience
+444,Special_Knowledge,"strain gages, high speed cameras, DIC & related data acquisition and control systems",
+445,Education,•	abgeschlossenes Studium der Betriebswirtschaftslehre oder vergleichbare Qualifikation,•	abgeschlossenes Studium der Betriebswirtschaftslehre oder vergleichbare Qualifikation
+446,Experience,innerbetrieblicher Transport,Transport
+447,Special_Knowledge,Warenimport,
+448,Education,Fachkraft für Lagerlogistik/ Apprenticeship of logistic specialist ,Ausbildung
+449,Experience,warehouse / intralogistics,Experience
+450,Experience,coordinating / leading a team,experience
+451,Special_Knowledge,ERP / WMS System ,
+452,Education,"mechanical-, mechatronic-, electrical-, aerospace engineering, physics",Studies
+453,Experience,"test & test rig instrumentation, test execution & data processing",Experience
+454,Special_Knowledge,data acquisition,
+455,Special_Knowledge,software programming for DAQ and controller with labview required,
+456,Special_Knowledge,selecting instrumentation and amplifiers ,
+457,Education,"Electrical/Electronics, Mechanical, Mechatronics Engineering, Physics ",Studies
+458,Experience,"Matlab/Simulink, Simulink-RT Modelling, Labview RT and interfacing electronic control unit features into HIL framework",experience
+459,Experience,"test & test rig instrumentation, test execution & data processing ",experience
+460,Experience,HIL test systems like Speedgoat and NI,experience
+461,Special_Knowledge,Bus modelling & Simulation and HIL development,
+462,Special_Knowledge,electrical and communication architectures ,
+463,Special_Knowledge,CIP,
+464,Special_Knowledge,REFA,
+465,Special_Knowledge,ISO 19011,
+466,Special_Knowledge,EASA  Part 21J / EASA Part 21G,
+467,Special_Knowledge,EN9100,
+468,Education,aeronautical engineering ,Studies
+469,Experience,Flight Dynamics ,experience
+470,Experience,Handling Qualities ,experience
+471,Special_Knowledge,Matlab/Simulink ,
+472,Special_Knowledge,CS23/ CS25 or CS27/ CS29 ,
+473,Education,Abgeschlossenes Studium der Wirtschaftsinformatik,"Abgeschlossenes Studium der Wirtschaftsinformatik, Informatik, Ingenieurwissen-schaften, Physik, Mathematik oder einer verwandten Fachrichtung"
+474,Special_Knowledge,Sehr gute Kenntnisse mit Teamcenter Enterprise und dessen Datenmodell,
+475,Additional_Qualification,Erfahrung in der Entwicklung von Enterprise IT-Systemen ,
+476,Experience,Kommissionieren,Warenausgabe
+477,Education,Fachkraft Lagerlogistik,gewerblich
+478,Education,Aerospace or Electrical Engineering ,studies
+479,Experience,Motor Design/ Electrical machines,experience
+480,Special_Knowledge,Aerospace requirements engineering and ARP4754,
+481,Special_Knowledge,PDM/PLM ,
+482,Special_Knowledge,DOORS,
+483,Special_Knowledge,general design principles and technical correlations ,
+484,Education,"-	abgeschlossenes Studium der Fachrichtung BWL, Gesundheitsmanagement oder So-zialwesen oder vergleichbare Ausbildung",Studium
+485,Special_Knowledge,-	einschlägige Berufserfahrung im Bereich Disability- bzw. Fallmanagement,
+486,Special_Knowledge,-	fundierte Kenntnisse im Arbeits- und Sozialrecht sowie der Sozialsysteme,
+487,Additional_Qualification,-	Zusatzqualifikation zum CDMP Certified-Disability-Manager wünschenswert,
+488,Education,•	Erfolgreich abgeschlossenes Studium oder Technikerausbildung in der Fachrichtung Informatik,Studium
+489,Education,Berufsausbildung als Elektrofachkraft vorteilhaft,Ausbildung
+490,Special_Knowledge,Fundierte Kenntnisse in der objektorientierten Softwareentwicklung auf Basis Microsoft .NET,
+491,Special_Knowledge,Idealerweise Erfahrung mit OPC UA,
+492,Special_Knowledge,Versierter Umgang mit Windows wie auch Linux,
+493,Experience,"battery pack design and simulation, including thermal run-away",Experience
+494,Special_Knowledge,CFD and heat transfer modeling,
+495,Special_Knowledge,fluid dynamics,
+496,Special_Knowledge,thermal design principles,
+497,Special_Knowledge,StarCCM+ ,
+498,Education,Electrical Engineering,Studies
+499,Education,Physics ,Studies
+500,Experience,Antennas and RF System,Experience
+501,Experience,Antenna Specification/Installation ,Experience
+502,Special_Knowledge,antenna qualification process according to DO-160 standards,
+503,Special_Knowledge,EMC analysis for System and components ,
+504,Education,Engineering,Studies
+505,Experience,project management ,Experience
+506,Special_Knowledge,"electronics/electrical, mechanical, and battery technologies",
+507,Special_Knowledge,"electronics/electrical, mechanical, and battery technologies ",
+508,Education,"Ingenieur mit Fachrichtung Elektrotechnik / Elektronik, Mechatronik, Automatisierungstechnik. Techniker mit einer vergleichbaren Fachrichtung",Ausbildung
+509,Additional_Qualification,"Praktische Erfahrungen auf dem Gebiet der Entwicklung und Wartung von elektronischen Systemen, der der Messtechnik sowie von Automated Test Equipment (ATE)",
+510,Special_Knowledge,Kenntnisse in der Messtechnik sowie Regelungstechnik,
+511,Special_Knowledge,"ATE, dSPACE control desk",
+512,Education,Technician degree,Apprenticeship
+513,Experience,Certifying Staff,Berufserfahrung
+514,Special_Knowledge,"Aviation Regulations and quality processes like APQP, QCP, SPC, PPS",
+515,Special_Knowledge,"knowledge in electronic, mechanic as well as composite",
+516,Additional_Qualification,Part66 B2 / C license,
+517,Special_Knowledge,Part66 B2 / C license,
+518,Education,Studium Werkstofftechnik oder naturwissenschaftliches Studium mit Schwerpunkt metallische Werkstoffe,Studium Werkstofftechnik
+519,Special_Knowledge,"Ausgeprägtes Fachwissen über die Wechselwirkungen von Fügeprozessen (Schweißen/Löten), Mikrostruktur und mechanischen Eigenschaften von Nickelbasis Superlegierungen",
+522,Additional_Qualification,Grundlegendes Verständnis über Belastungen und Auslegungsprozesse von Turbinenkomponenten von Vorteil,
+520,Special_Knowledge,"Über die Charakterisierung von Werkstoffgefügen, idealerweise praktische Erfahrung im Umgang mit : REM, TEM, XRD oder DTA",
+521,Special_Knowledge,Spezialkenntnisse in der Anwendung von Materialsimulation (Computational Materials Engineering). Anwendungserfahrung mit einem gängigen FE-Solver von Vorteil,
+523,Special_Knowledge,Eigenständigen Entwicklung von Applikationen in einem maschinennahen Umfeld unter Verwendung von .NET,
+524,Education,Electrician,Apprenticeship
+525,Experience,Electrician,Work Experience
+526,Special_Knowledge,Personalwesen,
+527,Language,Serbisch,
+528,Education,Computer Science,Studies
+529,Experience,Experience in functional safety systems / security engineering,Work experience
+530,Special_Knowledge,"-	Working knowledge of at least one of the following security standards/guidelines (DO-326A/ED-202A series, ISO 27000, SAE J3061, ISA/IEC 62443)",
+531,Special_Knowledge,Hochregal,
+532,Special_Knowledge,Bedienung Flurförderfahrzeuge,
+533,Special_Knowledge,ManUp-Stapler,
+534,Experience,Logistics Expert,Work experience
+535,Special_Knowledge,Customs,
+536,Experience,Betriebsrat,Berufserfahrung
+537,Special_Knowledge,Erfahrung in Konzernen bzgl. übergeordneter Mitbestimmungsstrukturen sind von Vorteil ,
+538,Special_Knowledge,Darüber hinaus besitzen Sie ein solides Maß an Kenntnissen der betrieblichen Mitbestimmung,
+539,Special_Knowledge,Die Verbesserung von Prozessabläufen und deren Optimierung durch digitale Anwendungen ist ihnen nicht fremd,
+540,Additional_Qualification,Erfahrung bei der Unterstützung und Organisation  von Projekten ,
+541,Special_Knowledge,Harness Routing,
+542,Special_Knowledge,Siemens NX,
+543,Experience,Aerospace Engineer,Work Experience
+544,Special_Knowledge,ATA-27,
+545,Special_Knowledge,ARP-4754A and ARP-4761,
+546,Education,"Aerospace Engineering, Mechanical/Vehicle Engineering or Electrical Engineering ",Studies
+547,Experience,aerospace industry ,experience
+548,Special_Knowledge,flight testing ,
+549,Special_Knowledge,propulsion systems ,
+550,Special_Knowledge,Project management ,
+551,Special_Knowledge,CAD system,
+552,Experience,production equipment procurement,experience
+553,Special_Knowledge,automated flow line ,
+554,Special_Knowledge,technical products and state of the arts technology,
+555,Special_Knowledge,"Identification of Potential Suppliers, Supplier Selection & Contracting",
+556,Special_Knowledge,Travelmanagement,
+557,Language,Spanisch wünschenswert,
+558,Education,Industrial Electrician,Apprenticeship
+559,Education,Pädagogik,Bildung
+560,Experience,Personalentwicklung,Bildung
+561,Special_Knowledge,Personalentwicklung,
+562,Special_Knowledge,Erwachsenenbildung,
+563,Additional_Qualification,Entwicklung multimedialer Weiterbildungsangebote,
+564,Experience,experience with rotating machines,Work experience
+565,Education,"Aerospace Engineering, Mechanical/Vehicle Engineering or Electrical Engineering",Studies
+566,Special_Knowledge,aircraft structure ,
+567,Education,Computer Engineering / Software Engineering,Studies
+568,Special_Knowledge,"knowledge in ARP4754A, DO-178C and DO-331",
+569,Education,"Aerospace Engineering, Mechanical Engineering",Studies
+570,Special_Knowledge,"Stress, Fatigue & Damage Tolerance analysis",
+571,Special_Knowledge,"development of Tools & Methods in the form of spreadsheets, subroutines and scripts ",
+572,Special_Knowledge,OptiStruct and corresponding pre- and post-processing tools (HyperMesh and HyperView),
+573,Special_Knowledge,"thermal management, thermal management systems, thermal calculations and related design principles ",
+574,Education,Electronic Engineering,Studies
+575,Experience,"aerospace, automotive or railway industry ",experience
+576,Special_Knowledge,"power electronics, high voltage (up to 1kVDC) semiconductors within electrical systems ",
+577,Special_Knowledge,aerospace certification procedures and hardware development lifecycle according to RTCA/DO-254 ,
+578,Special_Knowledge,Schematic capture and PCB layout board EDA tools,
+579,Special_Knowledge,power and analog systems design and integration ,
+580,Education,Technical or Engineering Degree,Ausbildung
+581,Special_Knowledge, implementation or management of Supplier Quality Management Systems,
+582,Special_Knowledge,experience auditing in a EN9100 or ISO9100 environment,
+583,Special_Knowledge,manufacturing and inspection processes in the aerospace and/or automotive industries on electronics/electrical equipment and/or energy storage,
+584,Special_Knowledge,Six Sigma Green Belt accreditation and experience with problem solving tools,
+585,Education,Mechanical/ Industrial/ Electrical Engineering degree,Ausbildung
+586,Experience,manufacturing engineering,experience
+587,Special_Knowledge,safety-critical industries or high volume production,
+588,Special_Knowledge,ERP & MES ,
+589,Special_Knowledge,CAD (Siemens NX is preferred),
+590,Education,"Studium (Uni/FH) der Fachrichtung Maschinenbau, Produktionstechnik oder vergleichbar",Studium
+591,Experience,Erfahrung im Bereich der Arbeitsvorbereitung und Konstruktion von Fertigungshilfsmitteln,Erfahrung
+592,Special_Knowledge,Erfahrung im Bereich der Arbeitsvorbereitung und Konstruktion von Fertigungshilfsmitteln,
+593,Special_Knowledge,idealerweise Kenntnisse im Bereich des thermischen Spritzens,
+594,Special_Knowledge,detaillierte Kenntnisse im Bereich der NC-Programmierung (speziell Industrie-roboter),
+595,Special_Knowledge,Guardus,
+596,Special_Knowledge,CAQ- und CAD-Systemen ,
+597,Additional_Qualification,Erfahrung mit P&W und GE-Audits und gute Kommunikations- und Präsentationsfähigkeit in diesem Zusammenhang,
+598,Experience,Versand,Versand
+599,Experience,Luftfracht,Versand
+600,Special_Knowledge,Development of Flight Management Systems,
+601,Special_Knowledge,"knowledge of ARINC 424, ARINC 702A",
+602,Special_Knowledge,"Experience in completing development and certification activities according to ARP4754A, ARP4761",
+603,Special_Knowledge,knowledge of DO-178C / DO-331 / DO-297,
+604,Education,"Aerospace Engineering, Mechanical Engineering ",Studies
+605,Experience,Aerospace industry ,experience
+606,Special_Knowledge,nonlinear explicit FE analysis methods,
+607,Special_Knowledge,structural mechanics,
+608,Special_Knowledge,progressive failure analysis,
+609,Special_Knowledge,commercial explicit FE code Altair RADIOSS ,
+610,Special_Knowledge,HyperMesh & HyperView,
+611,Experience,Work experience in a part 21J-approved organization,Work experience
+612,Experience,ATA-34 system development,Work experience
+613,Special_Knowledge,knowledge in ARP-4754A and ARP-4761,
+614,Special_Knowledge,knowledge of GNSS SBAS receivers and Inertial Reference Systems,
+615,Education,"Chemical Engineering, Chemistry, Material Science or related field",Studies
+616,Experience,Experience in Li-ion battery technology,Work experience
+617,Education,mechanical engineering,Studies
+618,Education,business administration (with engineering background),Studies
+619,Experience,Engineering Services in aerospace industry ,Experience
+620,Special_Knowledge,end-to-end responsibility of category strategy implementation,
+621,Special_Knowledge,EASA Part 21J,
+622,Special_Knowledge,supplier selection & contracting,
+623,Special_Knowledge,Strategic procurement in a corporate environment,
+624,Education,"mechanical-, aerospace-, chemical-, materials engineering or similar",studies
+625,Experience,aerospace M&P (materials and process) certification environment,Experience
+626,Special_Knowledge,defining material test standards,
+627,Education,"engineering, physics, chemistry, or a related field",Studies
+628,Experience,"batteries, preferably executing performance tests and abuse testing",Experience
+629,Special_Knowledge,"power supplies, loads and data acquisition systems",
+630,Experience,Kostenrechnung,Berufserfahrung
+631,Special_Knowledge,Kenntnisse öffentliches Preisrecht,
+632,Special_Knowledge,SAP CO,
+633,Special_Knowledge,Lagerwesen/Logistik,
+634,Experience,Triebwerktechnik,ohne
+635,Special_Knowledge,"Kenntnis der einschlägigen Anwendungen für die Erstellung Technischer Dokumentationstexte und Illustrationen (Datenmodulerstellung, SGML/XML/CGM), ATA iSpec, S1000D",
+636,Special_Knowledge,"Kenntnisse von Redaktionssystemen, Texterstellungs- und Stylesheet Software (z. B. Arbortext Editor), MS Office und Adobe Acrobat",
+637,Special_Knowledge,Idealerweise Kenntnisse eines technischen Zeichenprogramms sowie CAD-NX,
+638,Special_Knowledge,Kenntnis der Dokumentationserstellung in Simplified Technical English,
+639,Special_Knowledge,"Erfahrung in der Erstellung und Pflege von Technischer Dokumentation (Schwerpunkt Interaktive Dokumentation), vorzugsweise aus dem Bereich Luftfahrt",
+640,Additional_Qualification,Fähigkeit zur Beschreibung und Illustration komplexer technischer Abläufe und Zusammenhänge,
+641,Education,Business or Law degree,Studies
+642,Experience,"experience in procurement, legal or consulting roles with heavy contract interfaces",Work experience
+643,Special_Knowledge,"Contract drafting, management, change control",
+644,Special_Knowledge,Experience in German and US contract laws,
+645,Education,Aerospace or Mechanical Engineering ,Studies
+646,Experience,"structural analysis, with application to aircraft structures, in particular to Airframe Primary & Secondary Structure ",experience
+647,Special_Knowledge,"stress, damage tolerance & fatigue analysis methods ",
+648,Special_Knowledge,Analysis validation and test support,
+649,Special_Knowledge,"commercial implicit FE code OptiStruct, and corresponding pre- and post-processing tools (Hyperworks)",
+650,Special_Knowledge,Kenntnisse im Preisrecht,
+651,Education,"Abgeschlossenes Studium, vorzugsweise Maschinenbau oder Wirtschaftsingenieurwesen",Studium
+652,Education,vergleichbare Ausbildung,Ausbildung
+653,Special_Knowledge,SAP / Teamcenter,
